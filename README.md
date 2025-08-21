@@ -6,7 +6,7 @@ This repository demonstrates a **local, offline NL-to-SQL parser** for a sample 
 ## Features
 ## Database ERD
 
-![Real Estate ERD](images/ERD_RentalApp.png)
+![Real Estate ERD](Rental_App/ERD_RentalApp.png)
 
 
 - SQLite database with tables:
