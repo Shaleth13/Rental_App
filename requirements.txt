@@ -1,0 +1,6 @@
+pandas
+python-dateutil
+sqlite3
+# Optional if using transformers later
+# transformers
+# torch
