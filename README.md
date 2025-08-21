@@ -4,6 +4,10 @@
 This repository demonstrates a **local, offline NL-to-SQL parser** for a sample real estate database.
 
 ## Features
+## Database ERD
+
+![Real Estate ERD](images/erd.png)
+
 
 - SQLite database with tables:
   - `users`, `properties`, `bookings`, `payments`, `reviews`, `property_photos`, `favorites`
